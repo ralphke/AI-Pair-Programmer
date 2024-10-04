@@ -7,6 +7,18 @@
     * [Resources](./doc/Resources.md)
 
 
+* Challanges
+  * [01_Prompts](./prompts/01_Prompts.md)
+  * [02_Split_Numbers](./prompts/02_Split_Numbers.md)
+  * [03_anagram](./prompts/03_anagram.md)
+  * [04_hello-world](./prompts/04_hello-world.md)
+  * [05_Getting-started-with-Copilot](./prompts/05_Getting-started-with-Copilot.md)
+  * [06_Primes](./prompts/06_Primes.md)
+  * [07_Data-validation](./prompts/07_Data-validation.md)
+  * [08_code_validation](./prompts/08_code_validation.md)
+  * [Mandelbrot](./prompts/Mandelbrot.md)
+  * [SQL-Server Prompt](./prompts/SQL-Server%20Prompt.md)
+
 * Prompts
   * [Code completion](./doc/prompts/code-completion.md)
   * [Comment to code](./doc/prompts/comment-to-code.md)
