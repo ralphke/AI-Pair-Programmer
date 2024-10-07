@@ -3,3 +3,4 @@ pypdf
 PyPDF2
 numpy
 matplotlib
+google-generativeai
